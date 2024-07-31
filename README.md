@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/j__i__t__15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="j__i__t__15" height="30" width="40" /></a>
+<a href="https://twitter.com/j__i__t__15" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=000000" alt="j__i__t__15" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/prasenjit15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prasenjit15" height="30" width="40" /></a>
 <a href="https://instagram.com/j_i_t_15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="j_i_t_15" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/prasenjit15" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=O4SEeX66BY8o&format=png&color=000000" alt="prasenjit15" height="30" width="40" /></a>
