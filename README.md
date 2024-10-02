@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=j-i-t-15&label=Profile%20views&color=0e75b6&style=flat" alt="j-i-t-15" /> </p>
 
-- 🌱 I’m currently learning **Data Structure and Algorithms, Database Management, Cloud Computing.**
+- 🌱 I’m currently learning **Data Structure and Algorithms, Database Management System, Cloud Computing.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/J-I-T-15](https://github.com/J-I-T-15)
 
